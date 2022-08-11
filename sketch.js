@@ -57,7 +57,7 @@ function draw() {
   b2.show();
   Engine.update(engine);
 
-  //keyPressed()
+  keyPressed()
 
  
 }
